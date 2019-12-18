@@ -1,8 +1,19 @@
 body {
   text-align: center;
-  background: rgba(119, 141, 169, 1)
+  background: rgba(119, 141, 169, 1);
 }
 
+
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: rgba(231, 236, 239, 1);
+  height: 100%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; 
+}
 
 /*
 $color1: hsla(120%, 100%, 0%, 1);
