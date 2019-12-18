@@ -29,6 +29,11 @@ li a:hover {
   color: white;
 }
 
+.active {
+  background-color: rgba(104, 14, 75, 1);
+  color: white;
+}
+
 /*
 $color1: hsla(120%, 100%, 0%, 1);
 $color2: hsla(225%, 40%, 18%, 1);
