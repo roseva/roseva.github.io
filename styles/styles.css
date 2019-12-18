@@ -9,7 +9,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 25%;
-  background-color: rgba(231, 236, 239, 1);
+  background-color: rgba(28, 37, 65, 1);
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
   overflow: auto; 
@@ -18,7 +18,7 @@ ul {
 li a {
   display: block;
   width: 25%;
-  background-color: rgba(231, 236, 239, 1);
+  background-color: rgba(28, 37, 65, 1);
   padding: 8px 16px;
   text-decoration: none;
 }
