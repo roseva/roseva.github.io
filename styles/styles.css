@@ -18,7 +18,7 @@ ul {
 li a {
   display: block;
   width: 25%;
-  background-color: rgba(28, 37, 65, 1);
+  color: rgba(0, 1, 0, 1);
   padding: 8px 16px;
   text-decoration: none;
 }
