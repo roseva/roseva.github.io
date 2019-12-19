@@ -11,6 +11,7 @@ ul {
   width: 25%;
   color: rgba(119, 141, 169, 1);
   text-align: left;
+  font-family: Noto Sans, sans-serif;
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
   overflow: auto; 
